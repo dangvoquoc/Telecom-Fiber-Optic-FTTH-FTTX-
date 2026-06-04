@@ -11,5 +11,5 @@ Most modern fiber networks use a hierarchical design:
 <li>The most important part for users</li>
 <li>
   Typically FTTH (Fiber To The Home) or variants like
-  <li> FTTH (home)</li>
+  <ul> FTTH (home)</li>
 </li>
