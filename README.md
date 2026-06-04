@@ -14,6 +14,8 @@ Most modern fiber networks use a hierarchical design:
   Typically FTTH (Fiber To The Home) or variants like
   <ul> 
     <li>FTTH (home)</li>
+    <li>FTTB (building) </li>
+    <li>FTTC (curb) </li>
   </ul>
 </li>
 </ul>
