@@ -9,7 +9,11 @@ Most modern fiber networks use a hierarchical design:
 <li>Aggregates traffic from multiple access networks</li>
 <h2>Access Network (Last Mile)</h2>
 <li>The most important part for users</li>
+<ul>
 <li>
   Typically FTTH (Fiber To The Home) or variants like
-  <ul> FTTH (home)</ul>
+  <ul> 
+    <li>FTTH (home)</li>
+  </ul>
 </li>
+</ul>
