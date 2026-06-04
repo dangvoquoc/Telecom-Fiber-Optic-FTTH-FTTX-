@@ -42,3 +42,26 @@ Most modern fiber networks use a hierarchical design:
 <h3>c) Optical Network Terminal (ONT)</h3>
 <li>Installed at customer home</li>
 <li>Converts optical signal --> Ethernet/Wi-Fi</li>
+<h2> Design Considerations</h2>
+<h3>Bandwidth Planning</h3>
+<li>Estimate users per area</li>
+<li>Define peak traffic (congestion control)</li>
+<h3>Distance Limits</h3>
+<li>GPON typical reach: ~20 km</li>
+<li>Signal loss must be calculated (optical budget)</li>
+<h3>Split Ratio Design</h3>
+<li>Higher split = cheaper, but less speed per user</li>
+<li>Lower split = better perfomance, higher cost</li>
+<h3>Redundancy</h3>
+<li>Ring or dual-homing in backbone</li>
+<li>Backup fiber routers for outages</li>
+<h3>Optical Power Budget</h3>
+<p>Ensures signal strength is sufficent:</p>
+<li>Fiber loss (dB/km)</li>
+<li>Splitter loss</li>
+<li>Connector/Splice loss</li>
+<h2>5. Typicalll FTTH Layout</h2>
+<img width="371" height="327" alt="image" src="https://github.com/user-attachments/assets/a5001878-c113-4b52-80d6-f56ec1717ad1" />
+<h2>5. Modern Enhancements</h2>
+<li><b>XG-PON / XGS-PON</b></li>
+
