@@ -63,5 +63,7 @@ Most modern fiber networks use a hierarchical design:
 <h2>5. Typicalll FTTH Layout</h2>
 <img width="371" height="327" alt="image" src="https://github.com/user-attachments/assets/a5001878-c113-4b52-80d6-f56ec1717ad1" />
 <h2>5. Modern Enhancements</h2>
-<li><b>XG-PON / XGS-PON</b></li>
-
+<li><b>XG-PON / XGS-PON --> 10 Gbps fiber access</b></li>
+<li><b>NG-PON2</b> --> wavelength-based upgrades</li>
+<li><b>SDN(Software Defined Networking)</b> for control</li>
+<li>Integration with <b>5G backhaul networks</b></li>
