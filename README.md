@@ -67,3 +67,9 @@ Most modern fiber networks use a hierarchical design:
 <li><b>NG-PON2</b> --> wavelength-based upgrades</li>
 <li><b>SDN(Software Defined Networking)</b> for control</li>
 <li>Integration with <b>5G backhaul networks</b></li>
+<h2>6. Summary</h2>
+<p>Desigining fiber internet =</p>
+<li>Build core + metro + access layers</li>
+<li>Use PON (like GPON) for last-mile delivery</li>
+<li>Carefully plan splits, distance, and power budget</li>
+<li>Ensure scalability for future upgrades</li>
