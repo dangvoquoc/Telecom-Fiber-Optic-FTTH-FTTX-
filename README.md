@@ -73,3 +73,7 @@ Most modern fiber networks use a hierarchical design:
 <li>Use PON (like GPON) for last-mile delivery</li>
 <li>Carefully plan splits, distance, and power budget</li>
 <li>Ensure scalability for future upgrades</li>
+<h2>GPON use Single-mode Fiber optic, upto 20km</h2>
+<p align="center">
+  <img width="1137" height="591" alt="image" src="https://github.com/user-attachments/assets/d3dad779-b997-449c-b819-e640aac4945a" />
+</p>
