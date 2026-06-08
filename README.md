@@ -73,7 +73,6 @@ Most modern fiber networks use a hierarchical design:
 <li>Use PON (like GPON) for last-mile delivery</li>
 <li>Carefully plan splits, distance, and power budget</li>
 <li>Ensure scalability for future upgrades</li>
-<h2>GPON use Single-mode Fiber optic, upto 20km</h2>
 <h2>Common ITU-T fiber standards in GPON</h2>
 <ul>
   <li>ITU-T G.652 (Standard SMF)</li>
