@@ -74,6 +74,22 @@ Most modern fiber networks use a hierarchical design:
 <li>Carefully plan splits, distance, and power budget</li>
 <li>Ensure scalability for future upgrades</li>
 <h2>GPON use Single-mode Fiber optic, upto 20km</h2>
-<p align="center">
-  <img width="1137" height="591" alt="image" src="https://github.com/user-attachments/assets/d3dad779-b997-449c-b819-e640aac4945a" />
-</p>
+<h2>Common ITU-T fiber standards in GPON</h2>
+<ul>
+  <li>ITU-T G.652 (Standard SMF)</li>
+  <ul>
+      <li>Most widely used fiber in GPON networks</li>
+      <li>Good performance for general telecom backbone and access networks</li>
+  </ul>
+  <li>ITU0T G.657 (Bend-insensitive SMF)</li>
+  <ul>
+      <li>Designed for FTTH (Fiber to the Home)</li>
+      <li>Can be bent more without high signal loss</li>
+      <li>Very common in indoor installations and last-mile connections</li>
+  </ul>
+</ul>
+<h2>Why GPON uses single-mode fiber</h2>
+<li>Works efficiently up to 20km or more</li>
+<li>Supports high downstream/upstream speeds (2.5Gbps down/ 1.25 Gbps up in classic GPON)</li>
+<li>Very low atennuation and dispersion</li>
+<li>Ideal for passive splitters in the network</li>
